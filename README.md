@@ -2,7 +2,7 @@
 
 ## Contents
 
-- [Sushi Cards](https://github.com/coderdojodonegaltown/scratch/blob/master/Sushi Cards.md#Sushi Cards)
+- [Sushi Cards](https://github.com/coderdojodonegaltown/Scratch/blob/master/README.md#Sushi Cards)
 
 Scratch notes...
 
