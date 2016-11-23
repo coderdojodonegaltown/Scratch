@@ -1,4 +1,10 @@
-This is where to find links to notes for Scratch
+# This is where to find links to notes for Scratch
 
-This is the first link
+## Contents
 
+- [Sushi Cards](https://github.com/coderdojodonegaltown/scratch/blob/master/Sushi Cards.md#Sushi Cards)
+
+Scratch notes...
+
+
+## Sushi Cards 
